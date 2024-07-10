@@ -1,10 +1,10 @@
 <svg width="107" height="104" viewBox="0 0 107 104" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="5.0127" y="0.311157" width="96.8056" height="96.8056" fill="url(#pattern0_117_152)"/>
-<ellipse cx="48.992" cy="18.5147" rx="48.992" ry="18.5147" transform="matrix(-0.998499 0.0547787 -0.0655311 -0.997851 100.876 97.9097)" fill="url(#paint0_linear_117_152)"/>
-<ellipse cx="4.12379" cy="75.0733" rx="2.12697" ry="1.94402" fill="#D9D9D9"/>
+<rect x="5.01294" y="0.311279" width="96.8056" height="96.8056" fill="url(#pattern0_117_152)"/>
+<ellipse cx="48.992" cy="18.5147" rx="48.992" ry="18.5147" transform="matrix(-0.998499 0.0547787 -0.0655311 -0.997851 100.876 97.9098)" fill="url(#paint0_linear_117_152)"/>
+<ellipse cx="4.12404" cy="75.0734" rx="2.12697" ry="1.94402" fill="#D9D9D9"/>
 <ellipse cx="104.081" cy="55.3575" rx="2.12697" ry="1.94402" fill="#D9D9D9"/>
-<ellipse cx="18.0994" cy="24.2565" rx="2.12697" ry="1.94402" fill="#693B93"/>
-<ellipse cx="82.813" cy="95.3447" rx="2.12697" ry="1.94402" fill="#693B93"/>
+<ellipse cx="18.0996" cy="24.2565" rx="2.12697" ry="1.94402" fill="#693B93"/>
+<ellipse cx="82.8132" cy="95.3447" rx="2.12697" ry="1.94402" fill="#693B93"/>
 <defs>
 <pattern id="pattern0_117_152" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_117_152" transform="scale(0.0025)"/>
