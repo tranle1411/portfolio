@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-preahvihear: Preahvihear;
+  --font-poppins: Poppins;
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+  --font-poetsenone: PoetsenOne;
+  --font-poor-story: "Poor Story";
+
+  /* font sizes */
+  --font-size-2xl: 21px;
+  --font-size-5xs: 8px;
+  --font-size-4xl: 23px;
+  --font-size-mid: 17px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-15xl: 34px;
+  --font-size-mini: 15px;
+  --font-size-21xl: 40px;
+  --font-size-3xl: 22px;
+  --font-size-31xl: 50px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-mediumvioletred-100: #ba2788;
+  --color-mediumvioletred-200: #ba2776;
+  --color-gray-100: rgba(0, 0, 0, 0);
+  --color-mediumorchid: #9757d3;
+  --color-lightsteelblue: #ccd6f6;
+  --color-midnightblue: #2c1250;
+  --color-black: #000;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+}
