@@ -1,3 +1,10 @@
+section{
+  opacity: 0;
+  transition: all 2s ease;
+}
+.show{
+  opacity: 1;
+}
 .chantranlenguyen14gmailcom,
 .contact1,
 .i-am-excited {
@@ -310,7 +317,7 @@
   height: 324.7px;
 }
 .floating-icons {
-  top: 97.8px;
+  top: 200px;
   left: calc(50% - 347.75px);
   width: 661.1px;
   height: 144.1px;
@@ -345,6 +352,10 @@
   height: 664px;
   text-align: center;
   font-size: var(--font-size-5xl);
+  /* opacity: 0;
+  filter: blur(5px);
+  transform: translateX(-100%);
+  transition: all 1s; */
 }
 .click-icon {
   position: absolute;
@@ -603,6 +614,7 @@
   height: 64px;
 }
 .workexperience {
+  /* transition: all 1s; */
   position: absolute;
   top: 577px;
   left: calc(50% - 497.7px);
@@ -792,7 +804,6 @@
 }
 .header {
   position: absolute;
-  width: 100%;
   top: 0;
   right: 0;
   left: 0;
@@ -826,37 +837,37 @@
 }
 .navigations {
   position: absolute;
-  top: 38.8px;
-  right: 44px;
+  top: 35%;
+  right: 5%;
   width: 579px;
   height: 22.2px;
 }
 .heading,
 .logo-icon1 {
   position: absolute;
-  top: 38.8px;
-  left: 104px;
+  top: 35%;
+  left: 5%;
   width: 50px;
   height: 32.1px;
 }
 .heading {
+  position: fixed;
   width: 100%;
   top: 0;
   right: 0;
   left: 0;
-  height: 93px;
+  height: 90px;
   text-align: center;
   font-size: var(--font-size-xl);
   font-family: var(--font-plus-jakarta-sans);
 }
-.portfolio {
-  width: 100%;
-  position: relative;
+body {
+  margin: 0;
+  padding: 0;
   background-color: #16071f;
-  height: 3423px;
-  overflow: hidden;
-  text-align: left;
   font-size: var(--font-size-mini);
   color: var(--color-white);
   font-family: var(--font-preahvihear);
+  padding: 0;
+  margin: 0;
 }

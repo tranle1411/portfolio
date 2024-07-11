@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+  --font-preahvihear: Preahvihear;
+  --font-poppins: Poppins;
+  --font-size-xl: 20px;
+  --font-size-mid: 17px;
+  --font-size-2xl: 21px;
+  --font-size-13xl: 32px;
+  --font-size-5xl: 24px;
+  --font-size-5xs: 8px;
+  --font-size-4xl: 23px;
+  --font-size-base: 16px;
+  --font-size-15xl: 34px;
+  --font-size-mini: 15px;
+  --color-white: #fff;
+  --color-mediumvioletred-100: #ba2788;
+  --color-mediumvioletred-200: #ba2776;
+  --color-midnightblue: #2c1250;
+  --color-mediumorchid: #9757d3;
+  --color-lightsteelblue: #ccd6f6;
+  --br-mini: 15px;
+}
+/*# sourceMappingURL=index.689f5f05.css.map */
