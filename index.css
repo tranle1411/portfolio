@@ -5,9 +5,9 @@ section{
 .show{
   opacity: 1;
 }
-.chantranlenguyen14gmailcom,
+.gmail-address,
 .contact1,
-.i-am-excited {
+.contact-description {
   position: absolute;
   left: calc(50% - 498px);
   letter-spacing: 0.02em;
@@ -20,13 +20,13 @@ section{
   width: 139px;
   height: 40px;
 }
-.chantranlenguyen14gmailcom,
-.i-am-excited {
+.gmail-address,
+.contact-description {
   top: 66px;
   width: 994px;
   height: 71px;
 }
-.chantranlenguyen14gmailcom {
+.gmail-address {
   top: 178px;
   left: calc(50% - 496px);
   height: 24px;
@@ -38,15 +38,15 @@ section{
   width: 996px;
   height: 202px;
 }
-.image-6-icon,
-.vector-icon {
+.LinkedIn-icon,
+.gmail-icon {
   position: absolute;
   top: 3px;
   left: calc(50% + 32.65px);
   width: 13px;
   height: 13px;
 }
-.image-6-icon {
+.LinkedIn-icon {
   top: 0.2px;
   left: calc(50% - 45.65px);
   width: 15.8px;
@@ -54,13 +54,13 @@ section{
   object-fit: cover;
   cursor: pointer;
 }
-.image-7-icon,
+.Github-icon,
 .social-icons {
   position: absolute;
   height: 16px;
   cursor: pointer;
 }
-.image-7-icon {
+.Github-icon {
   top: 0;
   left: calc(50% - 6.35px);
   width: 16px;
@@ -95,10 +95,10 @@ section{
 .github {
   color: var(--color-mediumvioletred-100);
 }
-.learn-more-on-container1 {
+.spans {
   width: 100%;
 }
-.learn-more-on-container {
+.learn-more-NIM {
   position: absolute;
   top: 380px;
   left: calc(50% + 306.35px);
@@ -110,7 +110,7 @@ section{
   cursor: pointer;
 }
 .card-icon,
-.portfolio-icon {
+.portfolio-screenshot {
   position: absolute;
   top: 144px;
   left: calc(50% - 432.95px);
@@ -125,10 +125,10 @@ section{
   height: 118.8px;
   object-fit: cover;
 }
-.alpha-beta-pruning-is {
+.description-text {
   margin: 0;
 }
-.alpha-beta-pruning-is-container {
+.NIM-container {
   position: absolute;
   top: 123px;
   left: calc(50% - 278px);
@@ -141,8 +141,8 @@ section{
 .using {
   font-size: var(--font-size-5xl);
 }
-.favorite-algorithm-and,
-.game-of-nim-container {
+.favor-algo,
+.NIM-title-container {
   position: absolute;
   top: 21px;
   left: calc(50% - 158px);
@@ -154,7 +154,7 @@ section{
   height: 90px;
   font-size: var(--font-size-15xl);
 }
-.favorite-algorithm-and {
+.favor-algo {
   top: 0;
   left: calc(50% - 96px);
   font-size: var(--font-size-base);
@@ -204,7 +204,7 @@ section{
   height: 616px;
 }
 .card-icon1,
-.portfolio-icon1 {
+.portfolio-screenshot1 {
   position: absolute;
   top: 168.1px;
   left: calc(50% - 33.05px);
@@ -218,7 +218,7 @@ section{
   height: 106.5px;
   object-fit: cover;
 }
-.genetic-algorithms-are {
+.TSP-text {
   position: absolute;
   top: 164.9px;
   left: calc(50% - 502.5px);
@@ -228,7 +228,7 @@ section{
   width: 538.6px;
   height: 71.3px;
 }
-.the-tsp-solver-container {
+.TSP-container {
   top: 49.9px;
   left: calc(50% - 513.5px);
   font-weight: 600;
@@ -236,15 +236,15 @@ section{
   height: 90px;
   font-size: var(--font-size-15xl);
 }
-.favorite-algorithm-and1,
+.favor-algo1,
 .learn-more-on-container2,
-.the-tsp-solver-container {
+.TSP-container {
   position: absolute;
   letter-spacing: 0.02em;
   display: flex;
   align-items: center;
 }
-.favorite-algorithm-and1 {
+.favor-algo1 {
   top: 20.9px;
   left: calc(50% - 513.5px);
   font-weight: 600;
@@ -327,7 +327,7 @@ section{
   margin: 0;
   font-size: var(--font-size-mid);
 }
-.im-currently-looking-container {
+.job-search-container {
   position: absolute;
   top: 0;
   left: calc(50% - 300.75px);
@@ -366,7 +366,7 @@ section{
   height: 27px;
   overflow: hidden;
 }
-.learn-more-on-container4 {
+.resume {
   position: absolute;
   top: 582.4px;
   left: calc(50% - 500.7px);
@@ -624,7 +624,7 @@ section{
   font-size: var(--font-size-4xl);
   font-family: var(--font-poppins);
 }
-.as-a-motivated {
+.self-summary {
   position: absolute;
   top: 361px;
   left: calc(50% - 501.5px);
@@ -729,7 +729,7 @@ section{
 }
 .a-coder-who,
 .because-if-the,
-.hello-my-name-container {
+.name-container {
   position: absolute;
   display: flex;
   align-items: center;
@@ -743,7 +743,7 @@ section{
   width: 395px;
   height: 18px;
 }
-.hello-my-name-container {
+.name-container {
   top: 23px;
   left: calc(50% - 84.5px);
   font-size: 19px;
